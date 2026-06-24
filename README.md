@@ -1,66 +1,131 @@
 # AI Disaster Detection
 
+AI Disaster Detection is an intelligent disaster monitoring and response platform that leverages Deep Learning and Computer Vision to identify, classify, and monitor natural disasters in real time. The system is designed to support disaster management authorities and emergency response teams by providing rapid incident assessment, threat visualization, and operational intelligence through an interactive monitoring dashboard.
+
 ## Overview
-AI Disaster Detection is an AI-powered system designed to identify and classify natural disasters from images and data inputs. The application helps in early disaster recognition, enabling faster response and better decision-making during emergency situations.
 
-## Features
-- Automated disaster detection using Artificial Intelligence
-- Classification of disasters such as floods, wildfires, earthquakes, and storms
-- Fast and accurate prediction results
-- User-friendly interface
-- Real-time analysis capabilities
-- Scalable and adaptable for various disaster management scenarios
+Natural disasters can cause significant damage to communities, infrastructure, and the environment. Early detection and timely response are critical for minimizing their impact. This project utilizes Artificial Intelligence techniques to analyze disaster-related data and generate actionable insights that help improve situational awareness and decision-making during emergency scenarios.
 
-## Technologies Used
-- Python
-- Machine Learning / Deep Learning
-- TensorFlow / PyTorch
-- OpenCV
-- Flask / FastAPI
-- HTML, CSS, JavaScript
+## Key Features
+
+* AI-Powered Disaster Detection and Classification
+* Wildfire Monitoring and Analysis
+* Flood Detection and Risk Assessment
+* Earthquake Incident Monitoring
+* Cyclone and Storm Tracking
+* Landslide Detection
+* Real-Time Incident Intelligence Dashboard
+* Threat Severity Analysis and Visualization
+* Emergency Alert & Broadcast Management
+* Automated Situation Report Generation
+* Search and Filter Functionality
+* CSV and JSON Data Export
+* Tactical Response Recommendations
+* UAV Surveillance Simulation
+
+## Technical Implementation
+
+### Artificial Intelligence & Machine Learning
+
+* Convolutional Neural Networks (CNN) for disaster image classification
+* Deep Learning-based feature extraction and prediction
+* TensorFlow / Keras model pipeline
+* Image preprocessing and data validation workflows
+
+### Frontend Development
+
+* React
+* TypeScript
+* Tailwind CSS
+* Interactive and responsive user interface
+
+### Backend Development
+
+* Flask
+* Node.js
+* Express.js
+* RESTful API architecture
+
+### Analytics & Reporting
+
+* Real-time telemetry monitoring
+* Incident severity analytics
+* Operational dashboard insights
+* Automated report generation
+
+## Tech Stack
+
+**Languages**
+
+* Python
+* TypeScript
+* JavaScript
+
+**Frameworks & Libraries**
+
+* React
+* Flask
+* Express.js
+* TensorFlow
+* Keras
+* Tailwind CSS
+
+**Tools**
+
+* Git
+* GitHub
+* Vite
+
+## Impact
+
+The platform aims to enhance disaster preparedness and emergency response capabilities by enabling:
+
+* Faster disaster identification and classification
+* Centralized monitoring of critical incidents
+* Improved situational awareness
+* Data-driven decision making
+* Efficient emergency response coordination
 
 ## Installation
 
-1. Clone the repository:
+### Clone Repository
+
 ```bash
-git clone https://github.com/muskan80006/AI-Disaster-Detection.git
+git clone https://github.com/muskan8006/AI-Disaster-Detection.git
+cd AI-Disaster-Detection
 ```
 
-2. Install the required dependencies:
+### Install Dependencies
+
 ```bash
+npm install
 pip install -r requirements.txt
 ```
 
-3. Run the application:
+### Run Application
+
 ```bash
-python app.py
+npm run dev
 ```
 
-## Usage
-1. Launch the application.
-2. Upload an image or provide the required input.
-3. The AI model processes the data and identifies the disaster type.
-4. View the prediction results and confidence score.
+## Project Highlights
 
-## Applications
-- Disaster Management Agencies
-- Emergency Response Teams
-- Government Organizations
-- NGOs and Relief Operations
-- Smart City Monitoring Systems
+* Developed a full-stack AI-powered disaster monitoring platform.
+* Built an interactive dashboard for incident visualization and management.
+* Implemented deep learning-based disaster classification workflows.
+* Integrated emergency alert and reporting capabilities.
+* Designed a scalable architecture supporting future enhancements and integrations.
 
 ## Future Enhancements
-- Integration with satellite imagery
-- Real-time CCTV and drone monitoring
-- SMS and email alert systems
-- Mobile application support
-- Multi-language support
 
-## Contributing
-Contributions are welcome. Feel free to fork the repository, create a new branch, and submit a pull request.
+* Satellite Imagery Integration
+* Predictive Disaster Forecasting
+* Real-Time Drone Monitoring
+* IoT Sensor Connectivity
+* Mobile Application Support
+* Multi-Language Emergency Alerts
 
-## License
-This project is licensed under the MIT License.
+## Live Demo
 
-## Author
-Muskan
+🌐 https://ai-disaster-detection-881006405440.asia-southeast1.run.app/
+
