@@ -1,0 +1,3 @@
+Place raw normal training images inside this folder.
+These represent scenery with no active hazards (clear landscapes, city views, etc.).
+Used as negative training validation samples.

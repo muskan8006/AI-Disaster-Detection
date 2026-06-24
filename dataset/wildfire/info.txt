@@ -1,0 +1,2 @@
+Place raw wildfire training images inside this folder.
+Images will be automatically compiled, re-sized to 224x224, and analyzed by the training script.

@@ -1,0 +1,3 @@
+Place the final compiled disaster_detection_model.h5 file here.
+The system will automatically detect and load it for deep-learning classification routines.
+If absent, the system gracefully falls back to intelligent multimodal analysis or visual heuristics.
