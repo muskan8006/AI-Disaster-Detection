@@ -125,7 +125,3 @@ npm run dev
 * Mobile Application Support
 * Multi-Language Emergency Alerts
 
-## Live Demo
-
-🌐 https://ai-disaster-detection-881006405440.asia-southeast1.run.app/
-
